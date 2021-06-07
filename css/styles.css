@@ -46,8 +46,8 @@ p{
 }
 .bottom-cloud{
   position: absolute;
-  left:400px;
-  bottom:350px;
+  left:350px;
+  bottom:3250px;
   width: 10%;
   height: 10%;
 }
